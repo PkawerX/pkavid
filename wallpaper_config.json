@@ -1,0 +1,80 @@
+{
+    "monitor_96930845": {
+        "video_path": "C:/Users/pkx/Desktop/PkawarX/Projects/Python/Pkavid/a.mp4",
+        "monitor_info": {
+            "handle": 96930845,
+            "x": 3840,
+            "y": 2160,
+            "width": 1920,
+            "height": 1080,
+            "is_primary": true,
+            "device": "\\\\.\\DISPLAY2"
+        },
+        "fps": 30
+    },
+    "monitor_197984835": {
+        "video_path": "C:/Users/pkx/Desktop/PkawarX/Projects/Python/Pkavid/b.mp4",
+        "monitor_info": {
+            "handle": 197984835,
+            "x": -3840,
+            "y": 0,
+            "width": 3840,
+            "height": 2160,
+            "is_primary": false,
+            "device": "\\\\.\\DISPLAY1"
+        },
+        "fps": 30
+    },
+    "monitor_937100611": {
+        "video_path": "C:/Users/pkx/Desktop/PkawarX/Projects/Python/Pkavid/data/a.mp4",
+        "monitor_info": {
+            "handle": 937100611,
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080,
+            "is_primary": true,
+            "device": "\\\\.\\DISPLAY2"
+        },
+        "fps": 30
+    },
+    "monitor_395117115": {
+        "video_path": "C:/Users/pkx/Desktop/PkawarX/Projects/Python/Pkavid/a.mp4",
+        "monitor_info": {
+            "handle": 395117115,
+            "x": -3840,
+            "y": 0,
+            "width": 3840,
+            "height": 2160,
+            "is_primary": false,
+            "device": "\\\\.\\DISPLAY1"
+        },
+        "fps": 24
+    },
+    "monitor_90506965": {
+        "video_path": "C:/Users/pkx/Desktop/PkawarX/Projects/Python/Pkavid/data/a.mp4",
+        "monitor_info": {
+            "handle": 90506965,
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080,
+            "is_primary": true,
+            "device": "\\\\.\\DISPLAY1"
+        },
+        "fps": 30
+    },
+    "monitor_31196717": {
+        "video_path": "C:/Users/pkx/Desktop/PkawarX/Projects/Python/Pkavid/data/requirements.txt",
+        "monitor_info": {
+            "handle": 31196717,
+            "x": -3840,
+            "y": 0,
+            "width": 3840,
+            "height": 2160,
+            "is_primary": false,
+            "device": "\\\\.\\DISPLAY2"
+        },
+        "fps": 30
+    }
+}
